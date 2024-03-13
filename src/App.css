@@ -85,3 +85,25 @@ video {
   max-width: 100%;
   height: auto;
 }
+
+.App {
+  max-width: 1080px;
+  min-height: 100vh;
+  margin: 0 auto;
+  /* background-color: black; */
+}
+
+.site-brand-container {
+  max-width: 8rem;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+}
+
+.icon {
+  font-size: 32px;
+}
